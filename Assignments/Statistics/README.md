@@ -16,4 +16,4 @@ This code performs logistic regression on a credit dataset to predict whether a 
 # Results
 The results of the analysis are available in the following presentation:
 
-[Presentation (pt-BR)]()
+[Presentation (pt-BR)](Regress%C3%A3o%20Log%C3%ADstica.pdf)
